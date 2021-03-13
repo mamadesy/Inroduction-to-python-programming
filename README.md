@@ -1,2 +1,2 @@
-# nItroduction-to-python-programming
+# Introduction-to-python-programming
 Mohammad Esmaeili
